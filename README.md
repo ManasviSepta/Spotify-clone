@@ -8,14 +8,20 @@ A simple frontend-only clone of Spotify’s web UI built using HTML and CSS. Thi
 
 ✨ Features
 
-🎧 Spotify-like layout and design
+🎧 Spotify-like layout and design 
+
 📁 Sidebar navigation with icons
+
 🎶 Music card/grid section for albums or playlists
+
 📱 Responsive design for different screen sizes
+
 🎚️ Styled footer to resemble media player controls
 
 🛠️ Technologies Used
 
 HTML5 – Structure of the webpage
+
 CSS3 – Styling, layout, Flexbox, and responsiveness
+
 No JavaScript or backend logic
